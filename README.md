@@ -1,14 +1,11 @@
-# RidmikaHasranga
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RidmikaHasaranga&theme=jolly&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidmikaHasaranga&theme=dracula)
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidmikaHasaranga&theme=dracula)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RidmikaHasaranga&theme=dracula)
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RidmikaHasaranga&theme=dracula&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RidmikaHasaranga&theme=dracula)
+</div
 
-
-
-
-
-
-# MY STATS (They are pathetic):
-
-
-
-[![](https://raw.githubusercontent.com/RidmikaHasaranga/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/RidmikaHasaranga/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/RidmikaHasaranga/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/RidmikaHasaranga/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/RidmikaHasaranga/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
